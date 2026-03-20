@@ -47,6 +47,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&row=1"/>
-</div>

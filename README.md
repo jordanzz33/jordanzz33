@@ -1,13 +1,15 @@
-<h1 align="center">👋 Hello, i´m murilo</h1>
+<h1 align="center">👋 Hello, I'm Murilo</h1>
 
 <p align="center">
-💻 Student of Systems Development<br>
+💻 Systems Development Student <br>
 📍 Brazil
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Sempre+evoluindo+🚀;Foco+em+programação" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Always+learning+🚀;Focused+on+programming" />
 </div>
+
+---
 
 ## 🚀 Technologies
 <div align="center">
@@ -16,6 +18,7 @@
   <img align="center" alt="JS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
 
+---
 
 ## 📊 Statistics
 <div align="center">
@@ -23,11 +26,14 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
+---
+
 ## 🔥 Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical&hide_border=true"/>
 </div>
 
+---
 
 ## 🌐 Contact
 <div align="center">
@@ -38,6 +44,8 @@
     <img src="https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
+
+---
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical&no-frame=true&row=1"/>
